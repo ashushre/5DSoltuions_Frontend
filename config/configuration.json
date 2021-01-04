@@ -1,0 +1,9 @@
+{
+     "readFolder" :"E:\\PCBW\\",
+     "DoneFolder" : "E:\\PCBW\\Done\\",
+     "ErrorFolder" :"E:\\PCBW\\Error\\",
+     "urlToJSPCB":"http://jsac.jharkhand.gov.in/Pollution/WebService.asmx/getdata?",
+     "SenderMailId":"pradiphipparkar19@gmail.com",
+     "Mailauthuser":"pradiphipparkar19@gmail.com",
+     "Mailauthpassword":"aaiAppa@123"
+}

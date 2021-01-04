@@ -1,0 +1,17 @@
+{
+"dbPath":"mongodb://localhost:27017/Node_DB",
+	"codeValidForHrs": 6,
+	"inviteCodeValidForHrs": 720,
+	"minValForVerfCode": 1000,
+	"maxValForVerfCode": 9999,
+	"port": 4000,
+	"TokenExpiry": 31556952,
+
+	"retryCount": 1,
+	"gcmTTL": 3,
+	"parentApproval": false,
+	"nonImmediateConnection": true,
+	"senderParentApproval": false,
+	"bothParentNotify": true,
+	"checkIsConnected": true
+}
